@@ -1,14 +1,28 @@
-layout_spectrum: 1
-typography_spectrum: 0.3958109
-color:
-  saturation: 1
-  brandStrength: 0.91941
-  lightness: 0
-  rhythmicContrast: 0.8630504
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
 name: Let Go and Have Faith
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.3958109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#1b1310'
+    - '#6095bd'
+    - '#806550'
+    - '#c4b49b'
+  brandStrength: 0.91941
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 1
+purpose: []
